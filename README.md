@@ -4,6 +4,7 @@ El script `veurenotes` permet visualitzar gràficament la distribució de les no
 
 ![image](https://github.com/PauMayench/veure-notes/assets/120923489/06f2c9fb-8a97-44fe-817e-c230adcd6829)
 
+[Useful Trick](##Trucs)
 
 ## Característiques
 
@@ -15,7 +16,7 @@ El script `veurenotes` permet visualitzar gràficament la distribució de les no
 
 Aquest script requereix Python i la biblioteca matplotlib. Assegura't de tenir Python instal·lat a la teva màquina i instal·la matplotlib utilitzant pip:
 
-pip install matplotlib
+`pip install matplotlib`
 
 ## Ús
 Per utilitzar l'script, necessites importar-lo i proporcionar-li una llista de notes. 
