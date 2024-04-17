@@ -2,6 +2,9 @@
 
 El script `veurenotes` permet visualitzar gràficament la distribució de les notes i analitzar estadístiques associades. Aquesta eina destaca les notes individuals dins del conjunt i ofereix informació estadística rellevant.
 
+![image](https://github.com/PauMayench/veure-notes/assets/120923489/06f2c9fb-8a97-44fe-817e-c230adcd6829)
+
+
 ## Característiques
 
 - Representació visual de la distribució de notes.
