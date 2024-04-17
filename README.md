@@ -13,7 +13,12 @@ El script `veurenotes` permet visualitzar gràficament la distribució de les no
 - Càlcul i mostra de dades estadístiques com la mitjana de notes, percentatge de suspesos, entre altres.
 
 ## Instal·lació
+navega al directori desitjat
+```bash
+git clone https://github.com/PauMayench/veure-notes.git
+```
 
+## Requisits
 Aquest script requereix Python i la biblioteca matplotlib. Assegura't de tenir Python instal·lat a la teva màquina i instal·la matplotlib utilitzant pip:
 
 `pip install matplotlib`
