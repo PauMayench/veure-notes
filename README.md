@@ -4,7 +4,7 @@ El script `veurenotes` permet visualitzar gràficament la distribució de les no
 
 ![image](https://github.com/PauMayench/veure-notes/assets/120923489/06f2c9fb-8a97-44fe-817e-c230adcd6829)
 
-[Useful Trick](##Trucs)
+[Useful Trick](#trucs)
 
 ## Característiques
 
