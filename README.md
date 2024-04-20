@@ -21,7 +21,9 @@ git clone https://github.com/PauMayench/veure-notes.git
 ## Requisits
 Aquest script requereix Python i la biblioteca matplotlib. Assegura't de tenir Python instal·lat a la teva màquina i instal·la matplotlib utilitzant pip:
 
-`pip install matplotlib`
+```bash
+pip install matplotlib
+```
 
 ## Ús
 Per utilitzar l'script, necessites importar-lo i proporcionar-li una llista de notes. 
